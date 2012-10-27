@@ -1,0 +1,183 @@
+<style>
+.cyc-content .cyc-postcontent-0 .layout-item-0 {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-1 {
+	border-spacing: 10px 0px;
+	border-collapse: separate;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-2 {
+	color: #0A0C09;
+	background: #E8F0C5;
+	padding: 10px;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-3 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-4 {
+	padding: 10px;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-5 {
+	margin-bottom: 20px;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-6 {
+	padding: 0px;
+}
+
+.cyc-content .cyc-postcontent-0 .layout-item-7 {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.ie7 .post .layout-cell {
+	border: none !important;
+	padding: 0 !important;
+}
+
+.ie6 .post .layout-cell {
+	border: none !important;
+	padding: 0 !important;
+}
+
+.cyc-slidecontainer3 {
+	position: relative;
+	width: 243px;
+	height: 162px;
+}
+
+.cyc-slidecontainer3 .cyc-slide-item {
+	
+}
+
+.cyc-slidecontainer3 .cyc-slide-item {
+	-webkit-transition: 600ms ease-in-out opacity;
+	-moz-transition: 600ms ease-in-out opacity;
+	-ms-transition: 600ms ease-in-out opacity;
+	-o-transition: 600ms ease-in-out opacity;
+	transition: 600ms ease-in-out opacity;
+	position: absolute;
+	display: none;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.cyc-slidecontainer3 .active,.cyc-slidecontainer3 .next,.cyc-slidecontainer3 .prev
+	{
+	display: block;
+}
+
+.cyc-slidecontainer3 .active {
+	opacity: 1;
+}
+
+.cyc-slidecontainer3 .next,.cyc-slidecontainer3 .prev {
+	width: 100%;
+}
+
+.cyc-slidecontainer3 .next.forward,.cyc-slidecontainer3 .prev.back {
+	opacity: 1;
+}
+
+.cyc-slidecontainer3 .active.forward {
+	opacity: 0;
+}
+
+.cyc-slidecontainer3 .active.back {
+	opacity: 0;
+}
+
+.cyc-slide30 {
+	background-image: url('images/slide30.jpg');
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.cyc-slide31 {
+	background-image: url('images/slide31.jpg');
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.cyc-slidenavigator3 {
+	display: inline-block;
+	position: absolute;
+	direction: ltr !important;
+	top: 138px;
+	left: 81.89%;
+	z-index: 101;
+	line-height: 0 !important;
+	-webkit-background-origin: border !important;
+	-moz-background-origin: border !important;
+	background-origin: border-box !important;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.cyc-slidenavigator3 {
+	background: #83E1EC;
+	background: linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	background: -webkit-linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	background: -moz-linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	background: -o-linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	background: -ms-linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	background: linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	-svg-background: linear-gradient(top, rgba(202, 242, 247, 0.6) 0,
+		rgba(61, 208, 225, 0.6) 100% ) no-repeat;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 7px;
+}
+
+.cyc-slidenavigator3>a {
+	background: #1DAAB9;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 10px 0 0;
+	width: 10px;
+	height: 10px;
+}
+
+.cyc-slidenavigator3>a.active {
+	background: #C4EE7C;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 10px 0 0;
+	width: 10px;
+	height: 10px;
+}
+
+.cyc-slidenavigator3>a:hover {
+	background: #7BB517;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 10px 0 0;
+	width: 10px;
+	height: 10px;
+}
+</style>
